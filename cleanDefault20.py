@@ -1,6 +1,7 @@
 # Copyright: Arthur Milchior arthur@milchior.fr
 # License: GNU GPL, version 3 or later; http://www.gnu.org/copyleft/gpl.html
 # Feel free to contribute to this code on https://github.com/Arthur-Milchior/anki-clean-Default
+# Addons number 683170394
 
 
 from aqt.utils import showWarning
