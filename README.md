@@ -26,4 +26,3 @@ Based on    | Anki code by Damien Elmes <anki@ichi2.net>
 License     | GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
 Source in   | https://github.com/Arthur-Milchior/anki-clean-default
 Addon number| [683170394](https://ankiweb.net/shared/info/683170394)
-Support me on| [![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](https://Ko-fi.com/arthurmilchior) or [![Patreon](http://www.milchior.fr/patreon.png)](https://www.patreon.com/bePatron?u=146206)
